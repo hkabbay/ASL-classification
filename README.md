@@ -1,4 +1,4 @@
-# ASL-classification using Concolutional Neural Networks
+# ASL-classification using Convolutional Neural Networks
 The Deep Learning models, specifically Convolutional Neural Networks (CNN) or ConvNets, are famous for solving Image
 classification problems. 
 This repository contains a detailed report explaining life cycle of model development and Colab notebooks with example codes on how to build a CNN. <br>
